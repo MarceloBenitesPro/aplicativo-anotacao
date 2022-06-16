@@ -7,7 +7,7 @@
 
 ## Informações Sobre o Aplicativo
 * [Sobre](#Sobre)
-* [Ferramenta de editor Codico](#Ferramenta-de-editor-codico)
+* [Configurando ambiente de trabalho](#Configurando-ambiente-de-trabalho)
 * [Rodando o Front End](#Rodando-o-Front-End)
 * [Instalação-Expo](#Instalação-Expo)
 * [Estrutura do Codico](#Estrutura-do-Codico)
@@ -25,18 +25,26 @@ Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de se
  
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-##  🛠 Ferramenta de Editor de Códico 
+##  🛠 Configurando ambiente de trabalho
 </br>
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
 <br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/18df636c00b2075e44856005654b40d0/raw/fb71aa26885ea4a1b83c74426868cd9eae18be98/githubfcode.svg" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-## Rodando o Front End
+### Instalando o NodeJs
 </br></br>
-Para rodar o frond end você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao após fazer o download você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
+Para gerenciar o reactjs você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente.
+Após isso de next até o final para o node ser instalado.
+<br /><br /><br />
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
+<br /><br /><br />
+
+você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
 
 ```bash
+
+
 
 
 
