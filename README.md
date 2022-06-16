@@ -8,10 +8,11 @@
 ## Informações Sobre o Aplicativo
 * [Sobre](#Sobre)
 * [Configurando ambiente de trabalho](#Configurando-ambiente-de-trabalho)
+* * [Instalando o Visual Studio Code](##Instalando-o-Visual-Studio-Code)
 * * [Instalando o NodeJs](##Instalando-o-NodeJs)
 * * [ReactJs](##ReactJs)
 * * [Instalação-Expo](##Instalação-Expo)
-* [Estrutura do Codico](#Estrutura-do-Codico)
+* [Iniciando o Aplicativo](#Iniciando-o-Aplicativo)
 * [Instalação Dependencia AsyncState](#Instalação-Dependencia-AsyncSatate)
 * [Tecnologia](#Tecnologia)
 
@@ -27,11 +28,13 @@ Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de se
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ##  🛠 Configurando ambiente de trabalho
+<br /><br /><br /><br />
+### Instalando o Visual Studio Code
 </br>
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
 <br /><br />
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/18df636c00b2075e44856005654b40d0/raw/fb71aa26885ea4a1b83c74426868cd9eae18be98/githubfcode.svg" />
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ### Instalando o NodeJs
 </br></br>
