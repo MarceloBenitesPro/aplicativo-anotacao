@@ -1,7 +1,7 @@
 
 
 
-<img align="center" height="200em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/2a25a41ccbb59380ac357bf39d266d64/raw/20098ea90c6cda8fde50022f01c6a72355377694/githubicone.svg" />
+<img align="center"  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/2a25a41ccbb59380ac357bf39d266d64/raw/20098ea90c6cda8fde50022f01c6a72355377694/githubicone.svg" />
 
 # 🖊 Aplicativo Anotação 
 
@@ -23,26 +23,29 @@ Este é um aplicativo desenvolvido para fazer anotações de maneira simples e q
 Ele é feito através da linguagem NodeJS  o ReactJS é feito para a linguagem Mobile para Android e IOS.
 Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de ser aplicada.
 
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ad376aabbaecf3a9b1272ef5a8199511/raw/9a1a99e4f02dd02afa14933697cbc8ff226e59a5/githubcard2.svg" />
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/80eebcb07218fccda4dbab191a342780/raw/854bdc497fb9885593b423e910d5a81ca24e4068/githubcelular2.svg" />
- 
+<img src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a6c2687078c43071be3fd87c869f1cb0/raw/d980262b4e7496e5fc93d61e736f75e42b4d99a0/celularfinal.svg" />
+
  ## Requisitos
 Antes de começar , você vai precisar ter instalado em sua máquina as sequintes ferramentas:
 [Node.js](https://nodejs.org/en/),além disso é bom ter um editor para trabalhar com o códico como [VSCode](https://code.visualstudio.com/).
 
 <br />
-<p><h2> 🛠 Configurando ambiente de trabalho </h2></p>
-<br /><br /><br /><br />
-### Instalando o Visual Studio Code
+<p><h2> ⚙ Configurando ambiente de trabalho </h2></p>
+<br />
+<h3> Instalando o Visual Studio Code </h3>
 </br>
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
 <br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br />
-###  Instalando o NodeJs
-</br></br>
+<br /><br />
+<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+      #
+      
+### Instalando o NodeJs
+
 Para gerenciar o reactjs você precisa instalar o <a href="https://nodejs.org/en/">NodeJs</a> para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
 Após isso de next até o final para o nodejs ser instalado.
 <br /><br /><br />
@@ -160,9 +163,9 @@ Você pode acessar o seu aplicativo com a web apertando a tecla w.
 
 ## Criando a build do app e instalando
 
-* 1- Para visualizar a build acesse o site da expo.
-* 2- Abra o Projeto "Projeto_App_agendamento" no VSCode
-* 3- No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
+1. Para visualizar a build acesse o site da expo.
+2. Abra o Projeto "Projeto_App_agendamento" no VSCode
+3. No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
   <br /> <br /> 
 <img align="left" height="300em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/c969663e29cb679d13a4ece4349687fb/raw/14629e9858fbe87f26e7b47af6725da81a760d03/githubappjsona.svg" />
   <br /> <br /> <br /> <br /> <br /> <br /> 
@@ -172,19 +175,19 @@ Você pode acessar o seu aplicativo com a web apertando a tecla w.
     },
     <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
     
-* 4- Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
+4. Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
 atenção este comando ios muda para ipk de vez de ser apk.
 
 ```bash
 C:\Users\user\Desktop\Projeto_App_Agendamento>expo build:android
 ````
 
-* 5- Após isso aparecerá uma opção em azul clique em apk.
-* 6- após isso aparecerá uma conta atenticação clica na segunda opção caso você já tenha uma conta na expo.
-* 7- Em sequida perguntara o email da conta cadastrada coloque lá e a senha também.
-* 8- Com isso ele será instalado com sucesso!
-* 9- Irá aparecer um endereço de url na instalação é só copiar e colar
-* 10- Com o cabo USB do seu celular conectado ao computador digite o seguinte comando.
+5. Após isso aparecerá uma opção em azul clique em apk.
+6. após isso aparecerá uma conta atenticação clica na segunda opção caso você já tenha uma conta na expo.
+7. Em sequida perguntara o email da conta cadastrada coloque lá e a senha também.
+8. Com isso ele será instalado com sucesso!
+9. Irá aparecer um endereço de url na instalação é só copiar e colar
+10. Com o cabo USB do seu celular conectado ao computador digite o seguinte comando.
 
 ```bash
 C:\Users\user\Desktop\Projeto_App_Agendamento>adb install meuapp.apk
@@ -195,7 +198,7 @@ C:\Users\user\Desktop\Projeto_App_Agendamento>
 ````
 E pronto o seu app foi instalado no seu celular
 
-## Tecnologia
+##  🛠 Tecnologia
 * [Node.js](https://nodejs.org/en/)
 * [React.js](https://pt-br.reactjs.org/)
 * [Expo](https://reactnative.dev/docs/environment-setup)
