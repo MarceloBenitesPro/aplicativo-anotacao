@@ -157,28 +157,37 @@ Você pode acessar o seu aplicativo com a web apertando a tecla w.
 
 ## Criando a build do app e instalando
 
-1- Para visualizar a build acesse o site da expo.
-2- Abra o Projeto "Projeto_App_agendamento" no VSCode
-3- No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
-4- Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
+* 1- Para visualizar a build acesse o site da expo.
+* 2- Abra o Projeto "Projeto_App_agendamento" no VSCode
+* 3- No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
+  <br /> <br /> 
+<img align="left" height="300em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/c969663e29cb679d13a4ece4349687fb/raw/14629e9858fbe87f26e7b47af6725da81a760d03/githubappjsona.svg" />
+  <br /> <br /> <br /> <br /> <br /> <br /> 
+"android":{
+      "package":"com.app.swapp",
+      "versionCode":1
+    },
+    <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+    
+* 4- Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
 atenção este comando ios muda para ipk de vez de ser apk.
 
 ```bash
 C:\Users\user\Desktop\Projeto_App_Agendamento>expo build:android
 ````
 
-5- Após isso aparecerá uma opção em azul clique em apk.
-6- após isso aparecerá uma conta atenticação clica na segunda opção caso você já tenha uma conta na expo.
-7- Em sequida perguntara o email da conta cadastrada coloque lá e a senha também.
-8- Com isso ele será instalado com sucesso!
-9- Irá aparecer um endereço de url na instalação é só copiar e colar
-10- Com o cabo USB do seu celular conectado ao computador digite o seguinte comando.
+* 5- Após isso aparecerá uma opção em azul clique em apk.
+* 6- após isso aparecerá uma conta atenticação clica na segunda opção caso você já tenha uma conta na expo.
+* 7- Em sequida perguntara o email da conta cadastrada coloque lá e a senha também.
+* 8- Com isso ele será instalado com sucesso!
+* 9- Irá aparecer um endereço de url na instalação é só copiar e colar
+* 10- Com o cabo USB do seu celular conectado ao computador digite o seguinte comando.
 
 ```bash
 C:\Users\user\Desktop\Projeto_App_Agendamento>adb install meuapp.apk
 C:\Users\user\Desktop\Projeto_App_Agendamento>adb install meuapp.apk
 Performing Streamd Install
-Sucess
+Success
 C:\Users\user\Desktop\Projeto_App_Agendamento>
 ````
 E pronto o seu app foi instalado no seu celular
