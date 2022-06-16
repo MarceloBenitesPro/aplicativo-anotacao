@@ -13,7 +13,7 @@
 * * [ReactJs](#ReactJs)
 * * * [Instalação-Expo](#Instalação-Expo)
 * [Iniciando o Aplicativo](#Iniciando-o-Aplicativo)
-* [Instalando o Expo-build](#Instalando-o-Expo-build)
+* [Criando a build do app e instalando](#Criando-a-build-do-app-e-instalando)
 * [Requesitos](#Requesitos)
 * [Tecnologia](#Tecnologia)
 
@@ -28,7 +28,7 @@ Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de se
  
 
 <br />
-##  🛠 Configurando ambiente de trabalho
+##   🛠 Configurando ambiente de trabalho
 <br /><br /><br /><br />
 ### Instalando o Visual Studio Code
 </br>
@@ -38,7 +38,7 @@ Antes de começar , você vai precisar fazer o download e instalar o <a href="ht
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br />
-### Instalando o NodeJs
+###  Instalando o NodeJs
 </br></br>
 Para gerenciar o reactjs você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
 Após isso de next até o final para o nodejs ser instalado.
@@ -103,6 +103,7 @@ Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
+
 <br /><br /><br /><br />
 ```bash
 Microsoft Windows [versão 10.0.19044.1706]
@@ -138,6 +139,52 @@ Starting Metro Bundler
 `````
 
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a5ff1b78a17edd8fad94b993f6b63622/raw/c21af20bd499d6c0070e6e296fef8c68e0dccae1/githubQrCodeApp.svg" />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br /><br /><br /><br /><br /><br />
+Quando você der o expo start aparecera o endereço do localhost:19002 clique nele para ir ao servidor.
+
+```bash
+C:\Users\user\Desktop\Projeto_App_Agendamento>expo start
+Starting project at C:\Users\user\Desktop\Projeto_App_Agendamento
+Developer tools running on http://localhost:19002
+````
+
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ab984e5e25882c234a2119bbe0b7e643/raw/e0642a49d8fe434a4d58d1840cc4c4e31d1e18ec/githullocalhostapp.svg" />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br /><br /><br /><br /><br /><br />
+
+Você pode acessar o seu aplicativo com a web apertando a tecla w.
+
+## Criando a build do app e instalando
+
+1- Para visualizar a build acesse o site da expo.
+2- Abra o Projeto "Projeto_App_agendamento" no VSCode
+3- No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
+4- Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
+atenção este comando ios muda para ipk de vez de ser apk.
+
+```bash
+C:\Users\user\Desktop\Projeto_App_Agendamento>expo build:android
+````
+
+5- Após isso aparecerá uma opção em azul clique em apk.
+6- após isso aparecerá uma conta atenticação clica na segunda opção caso você já tenha uma conta na expo.
+7- Em sequida perguntara o email da conta cadastrada coloque lá e a senha também.
+8- Com isso ele será instalado com sucesso!
+9- Irá aparecer um endereço de url na instalação é só copiar e colar
+10- Com o cabo USB do seu celular conectado ao computador digite o seguinte comando.
+
+```bash
+C:\Users\user\Desktop\Projeto_App_Agendamento>adb install meuapp.apk
+C:\Users\user\Desktop\Projeto_App_Agendamento>adb install meuapp.apk
+Performing Streamd Install
+Sucess
+C:\Users\user\Desktop\Projeto_App_Agendamento>
+````
+E pronto o seu app foi instalado no seu celular
+
+## Tecnologia
+<br /><br /><br /><br /><br /><br />
 
 
 
