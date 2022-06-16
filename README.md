@@ -8,8 +8,9 @@
 ## Informações Sobre o Aplicativo
 * [Sobre](#Sobre)
 * [Configurando ambiente de trabalho](#Configurando-ambiente-de-trabalho)
-* [Rodando o Front End](#Rodando-o-Front-End)
-* [Instalação-Expo](#Instalação-Expo)
+* * [Instalando o NodeJs](##Instalando-o-NodeJs)
+* * [ReactJs](##ReactJs)
+* * [Instalação-Expo](##Instalação-Expo)
 * [Estrutura do Codico](#Estrutura-do-Codico)
 * [Instalação Dependencia AsyncState](#Instalação-Dependencia-AsyncSatate)
 * [Tecnologia](#Tecnologia)
@@ -34,15 +35,23 @@ Antes de começar , você vai precisar fazer o download e instalar o <a href="ht
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ### Instalando o NodeJs
 </br></br>
-Para gerenciar o reactjs você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente.
-Após isso de next até o final para o node ser instalado.
+Para gerenciar o reactjs você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
+Após isso de next até o final para o nodejs ser instalado.
 <br /><br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
+Para você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
 
 ```bash
+C:\User\user>node -v
+<!---Serve-para-ver-a-versão-do-node-->
+v16.15.1
+C:\User\user>npm -v
+6.14.5
+C:\User\user>
+````
+
 
 
 
