@@ -93,7 +93,13 @@ C:\User\user\desktop\Projeto_App_Agendamento>expo start
 ````
 
 Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o expo.
+<br /><br /><br /><br />
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/57ea09a06b35441232f4fcbd1a8a9485/raw/78ec81bd1debd110111ee489418ca20eac1e825b/githubappexpo.svg" />
 Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
+<br /><br /><br /><br />
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/79d101297bd843543abd9aa12403b759/raw/6050215597d3d804a7d9e1502c1afa1c1d175e20/githubQrCodecmd.svg" />
+<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a5ff1b78a17edd8fad94b993f6b63622/raw/c21af20bd499d6c0070e6e296fef8c68e0dccae1/githubQrCodeApp.svg" />
+
 
 
 
