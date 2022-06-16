@@ -54,11 +54,10 @@ C:\User\user>npm -v
 6.14.5
 C:\User\user>
 ````
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-## ReactJS
+### ReactJS
 <br/><br/><br/>
 O React Native mudou de documentação e ele recomenda a usar o expo.
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 ### Instalação-Expo
 Para instalar o expo na maquina você acessa o cmd do seu computador
 
