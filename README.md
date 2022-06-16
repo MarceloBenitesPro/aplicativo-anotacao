@@ -13,7 +13,6 @@
 * * [ReactJs](#ReactJs)
 * * * [Instalação-Expo](#Instalação-Expo)
 * [Iniciando o Aplicativo](#Iniciando-o-Aplicativo)
-* [Instalação Dependencia AsyncState](#Instalação-Dependencia-AsyncSatate)
 * [Tecnologia](#Tecnologia)
 
 ## Sobre
@@ -26,7 +25,7 @@ Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de se
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/80eebcb07218fccda4dbab191a342780/raw/854bdc497fb9885593b423e910d5a81ca24e4068/githubcelular2.svg" />
  
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 ##  🛠 Configurando ambiente de trabalho
 <br /><br /><br /><br />
 ### Instalando o Visual Studio Code
@@ -55,7 +54,7 @@ C:\User\user>npm -v
 C:\User\user>
 ````
 ### ReactJS
-<br/><br/><br/>
+<br/>
 O React Native mudou de documentação e ele recomenda a usar o expo.
 
 ### Instalação-Expo
@@ -71,6 +70,33 @@ E após isso aperte enter para ver se foi instalado basta dar este comando no cm
 C:\User\user>expo --version
 3.21.10
 ````
+Para ver outras documentações do expo acesse o site <a href="https://expo.dev/"></a> e faça o seu cadastro na expo.
+
+<br  />
+
+## Iniciando o Aplicativo
+
+Vamos iniciar o aplicato com o reactjs e com o expo para isso para isso va no desktop 
+
+```bash
+C:\User\user>cd desktop
+C:\User\user\desktop>
+C:\User\user\desktop>expo init "Projeto_01"
+````
+Isso serve para você criar o seu projeto.
+Para ter acesse ao projeto do repositório , bastar fazer o downlond da pasta , como já tenho o expo instalado, você tem que entrar dentro da pasta baixada e dar o seguinto comando no cmd.
+```bash
+C:\User\user>cd desktop
+C:\User\user\desktop>
+C:\User\user\desktop>cd "Projeto_App_Agendamento"
+C:\User\user\desktop\Projeto_App_Agendamento>expo start
+````
+
+Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o expo.
+Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
+
+
+
 
 
 
