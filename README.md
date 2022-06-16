@@ -46,7 +46,7 @@ Para gerenciar o reactjs você precisa instalar o <a href="https://nodejs.org/en
 Após isso de next até o final para o nodejs ser instalado.
 
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 Para você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
 
@@ -100,11 +100,13 @@ C:\User\user\desktop\Projeto_App_Agendamento>expo start
 Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o expo.
 <br /><br /><br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/57ea09a06b35441232f4fcbd1a8a9485/raw/78ec81bd1debd110111ee489418ca20eac1e825b/githubappexpo.svg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 
 Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
 
-<br />
+<br /><br /><br />
+
 ```bash
 Microsoft Windows [versão 10.0.19044.1706]
 (c) Microsoft Corporation. Todos os direitos reservados.
