@@ -13,6 +13,8 @@
 * * [ReactJs](#ReactJs)
 * * * [Instalação-Expo](#Instalação-Expo)
 * [Iniciando o Aplicativo](#Iniciando-o-Aplicativo)
+* [Instalando o Expo-build](#Instalando-o-Expo-build)
+* [Requesitos](#Requesitos)
 * [Tecnologia](#Tecnologia)
 
 ## Sobre
@@ -35,6 +37,7 @@ Antes de começar , você vai precisar fazer o download e instalar o <a href="ht
 <br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 ### Instalando o NodeJs
 </br></br>
 Para gerenciar o reactjs você precisa instalar o NodeJs para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
@@ -95,10 +98,47 @@ C:\User\user\desktop\Projeto_App_Agendamento>expo start
 Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o expo.
 <br /><br /><br /><br />
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/57ea09a06b35441232f4fcbd1a8a9485/raw/78ec81bd1debd110111ee489418ca20eac1e825b/githubappexpo.svg" />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
 <br /><br /><br /><br />
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/79d101297bd843543abd9aa12403b759/raw/6050215597d3d804a7d9e1502c1afa1c1d175e20/githubQrCodecmd.svg" />
+```bash
+Microsoft Windows [versão 10.0.19044.1706]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\user>cd desktop
+
+C:\Users\user\Desktop>cd "Projeto_App_Agendamento"
+
+C:\Users\user\Desktop\Projeto_App_Agendamento>expo start
+Starting project at C:\Users\user\Desktop\Projeto_App_Agendamento
+Developer tools running on http://localhost:19002
+Starting Metro Bundler
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀▄█▀     █ ▄▄▄▄▄ █
+█ █   █ █▄   ▄██▀ █ █   █ █
+█ █▄▄▄█ █ ▀█▀█▄▀ ██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ ▀▄█ █▄▀ █▄▄▄▄▄▄▄█
+█  █ ▀█▄ ▀█ ▀▄ ▀██▀  ▄▀▄▄▀█
+█  ▀ ▀▀▄▀▀▄▄█▄ ▀▀▄▄▀ ▀▀█▄▄█
+█▄█▄▄▀ ▄▄█▀▀██▄ █▀█ ▄█ ██▀█
+█▄▀ ███▄▀▄█▄ ▄▀ █ ▄▄ ▀▀██▄█
+█▄▄▄▄█▄▄▄▀▄▄▀██▄  ▄▄▄ █ ▄ █
+█ ▄▄▄▄▄ █▄ █▀▄▄▄  █▄█  ▀▄ █
+█ █   █ █▀█ ▄█ ▀▀▄ ▄▄ █▀▄██
+█ █▄▄▄█ █▀▄▀██ ▄█  █▄  ▄█▄█
+█▄▄▄▄▄▄▄█▄▄█▄█▄▄█▄███▄▄█▄▄█
+
+› Metro waiting on exp://192.168.100.245:19000
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Press a │ open Android
+`````
+
 <img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a5ff1b78a17edd8fad94b993f6b63622/raw/c21af20bd499d6c0070e6e296fef8c68e0dccae1/githubQrCodeApp.svg" />
+
 
 
 
