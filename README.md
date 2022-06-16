@@ -8,10 +8,10 @@
 ## Informações Sobre o Aplicativo
 * [Sobre](#Sobre)
 * [Configurando ambiente de trabalho](#Configurando-ambiente-de-trabalho)
-* * [Instalando o Visual Studio Code](##Instalando-o-Visual-Studio-Code)
-* * [Instalando o NodeJs](##Instalando-o-NodeJs)
-* * [ReactJs](##ReactJs)
-* * [Instalação-Expo](##Instalação-Expo)
+* * [Instalando o Visual Studio Code](#Instalando-o-Visual-Studio-Code)
+* * [Instalando o NodeJs](#Instalando-o-NodeJs)
+* * [ReactJs](#ReactJs)
+* * * [Instalação-Expo](#Instalação-Expo)
 * [Iniciando o Aplicativo](#Iniciando-o-Aplicativo)
 * [Instalação Dependencia AsyncState](#Instalação-Dependencia-AsyncSatate)
 * [Tecnologia](#Tecnologia)
@@ -53,6 +53,24 @@ v16.15.1
 C:\User\user>npm -v
 6.14.5
 C:\User\user>
+````
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+## ReactJS
+<br/><br/><br/>
+O React Native mudou de documentação e ele recomenda a usar o expo.
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+### Instalação-Expo
+Para instalar o expo na maquina você acessa o cmd do seu computador
+
+```bash
+C:\User\user>npm install -g expo-cli
+````
+
+E após isso aperte enter para ver se foi instalado basta dar este comando no cmd
+
+```bash
+C:\User\user>expo --version
+3.21.10
 ````
 
 
