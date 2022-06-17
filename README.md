@@ -30,7 +30,7 @@ Antes de começar , você vai precisar ter instalado em sua máquina as sequinte
 [Node.js](https://nodejs.org/en/),além disso é bom ter um editor para trabalhar com o códico como [VSCode](https://code.visualstudio.com/).
 
 <br />
-<h2># ⚙ Configurando ambiente de trabalho </h2>
+<h2># Configurando ambiente de trabalho ⚙ </h2>
 <br />
 <h3># Instalando o Visual Studio Code</h3>
 </br>
