@@ -30,9 +30,9 @@ Antes de começar , você vai precisar ter instalado em sua máquina as sequinte
 [Node.js](https://nodejs.org/en/),além disso é bom ter um editor para trabalhar com o códico como [VSCode](https://code.visualstudio.com/).
 
 <br />
-<h2> ⚙ Configurando ambiente de trabalho </h2>
+<h2># ⚙ Configurando ambiente de trabalho </h2>
 <br />
-<h3> Instalando o Visual Studio Code </h3>
+<h3># Instalando o Visual Studio Code</h3>
 </br>
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
@@ -45,7 +45,7 @@ Antes de começar , você vai precisar fazer o download e instalar o <a href="ht
 Para gerenciar o reactjs você precisa instalar o <a href="https://nodejs.org/en/">NodeJs</a> para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
 Após isso de next até o final para o nodejs ser instalado.
 
-<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
+<img  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
 <br />
 
 Para você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
@@ -99,8 +99,8 @@ C:\User\user\desktop\Projeto_App_Agendamento>expo start
 
 Para ter acesso ao projeto recomendo instalar no seu aplicativo do seu celular o expo.
 <br /><br /><br /><br />
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/57ea09a06b35441232f4fcbd1a8a9485/raw/78ec81bd1debd110111ee489418ca20eac1e825b/githubappexpo.svg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/57ea09a06b35441232f4fcbd1a8a9485/raw/78ec81bd1debd110111ee489418ca20eac1e825b/githubappexpo.svg" />
+<br /><br />
 
 
 Após o comando expo start aparecerá o QrCode no aplicativo tem a opção QrCode scaneie o QrCode do seu celular com o QrCode do computador.
@@ -140,9 +140,8 @@ Starting Metro Bundler
 › Press a │ open Android
 `````
 
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a5ff1b78a17edd8fad94b993f6b63622/raw/c21af20bd499d6c0070e6e296fef8c68e0dccae1/githubQrCodeApp.svg" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br /><br /><br /><br /><br /><br />
+<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a5ff1b78a17edd8fad94b993f6b63622/raw/c21af20bd499d6c0070e6e296fef8c68e0dccae1/githubQrCodeApp.svg" />
+<br/>
 Quando você der o expo start aparecera o endereço do localhost:19002 clique nele para ir ao servidor.
 
 ```bash
