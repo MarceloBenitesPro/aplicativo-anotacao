@@ -1,5 +1,3 @@
-<img align="center"  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/2a25a41ccbb59380ac357bf39d266d64/raw/20098ea90c6cda8fde50022f01c6a72355377694/githubicone.svg" />
-
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarceloBenitesPro/aplicativo-anotacao/commit/e52ebdaf2afc42cb8f9b3764c1495dffb87890b2) 
 
 #  ![anot](https://user-images.githubusercontent.com/106987028/174350588-c0cab23b-5a2f-4cad-830f-b9b4b9c9e08a.gif) Aplicativo Anotação 
