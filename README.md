@@ -17,7 +17,7 @@
 * [Criando a build do app e instalando](#Criando-a-build-do-app-e-instalando)
 * [Tecnologia](#Tecnologia)
 
-## Sobre
+## 💬 Sobre
 
 Este é um aplicativo desenvolvido para fazer anotações de maneira simples e que o usuario podera usar no dia a dia.
 Ele é feito através da linguagem NodeJS  o ReactJS é feito para a linguagem Mobile para Android e IOS.
@@ -25,14 +25,18 @@ Ele possue a dependencia do expo o que deixa a aplicação muita mais leve de se
 
 <img src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/a6c2687078c43071be3fd87c869f1cb0/raw/d980262b4e7496e5fc93d61e736f75e42b4d99a0/celularfinal.svg" />
 
- ## Requisitos
+ ## 📃 Requisitos
 Antes de começar , você vai precisar ter instalado em sua máquina as sequintes ferramentas:
 [Node.js](https://nodejs.org/en/),além disso é bom ter um editor para trabalhar com o códico como [VSCode](https://code.visualstudio.com/).
 
 <br />
-<h2># Configurando ambiente de trabalho ⚙ </h2>
+
+## ⚙ Configurando ambiente de trabalho 
+
 <br />
-<h3># Instalando o Visual Studio Code</h3>
+
+ ### Instalando o Visual Studio Code 
+
 </br>
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
@@ -79,7 +83,7 @@ Para ver outras documentações do expo acesse o site <a href="https://expo.dev/
 
 <br  />
 
-## Iniciando o Aplicativo
+## 😀 Iniciando o Aplicativo
 
 Vamos iniciar o aplicato com o reactjs e com o expo para isso para isso va no desktop 
 
@@ -191,6 +195,13 @@ Success
 C:\Users\user\Desktop\Projeto_App_Agendamento>
 ````
 E pronto o seu app foi instalado no seu celular
+
+1. Para baixar o apk do Aplicativo de Anotação é recomendavel acessar este link pelo celular é só clicar aqui ao lado [Expo Aplicativo Anotação clique aqui](https://expo.dev/accounts/marcelo13/projects/Projeto_App_Agendamento/builds/f5dc295a-4d99-4c95-9059-04bab55c79fa)
+2. Clique em download e será baixado no seu celular .
+<img  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/1487b68bb33d16dc356a5d4047fc2adb/raw/899a5580be0e20f6f30057e648de119d05295fec/appapk.svg" />
+<br/>
+3. Vá no seu celular arquivos > download.
+4. Clique na apk baixada e pronto o aplicativo aparecerá no seu celular.
 
 ##  🛠 Tecnologia
 * [Node.js](https://nodejs.org/en/)
