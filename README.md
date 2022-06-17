@@ -37,7 +37,7 @@ Antes de começar , você vai precisar ter instalado em sua máquina as sequinte
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
 
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
+<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
 
       
 ### Instalando o NodeJs
@@ -45,8 +45,8 @@ Antes de começar , você vai precisar fazer o download e instalar o <a href="ht
 Para gerenciar o reactjs você precisa instalar o <a href="https://nodejs.org/en/">NodeJs</a> para isso você precisa ir no site do node e fazer o download da ultima versao v16.15.1 LTS após fazer o download é só clicar no botão verde e ele começará imediatamente, faça o download da versão LTS por ele ser estável.
 Após isso de next até o final para o nodejs ser instalado.
 
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/fb8be27fb7db2a35888cda34a9a428ec/raw/075fb83545c44fd9f6038cf1dfd4a03b1a193d4e/githubnode.svg" />
+<br />
 
 Para você testar se o node js foi instalado você precisa acessar o cmd no seu sistema e dar os comandos que estarão aqui abaixo.
 
@@ -151,10 +151,10 @@ Starting project at C:\Users\user\Desktop\Projeto_App_Agendamento
 Developer tools running on http://localhost:19002
 ````
 
-<img align="left" height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ab984e5e25882c234a2119bbe0b7e643/raw/e0642a49d8fe434a4d58d1840cc4c4e31d1e18ec/githullocalhostapp.svg" />
-<br/><br/><br/><br/><br/><br/>
+<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ab984e5e25882c234a2119bbe0b7e643/raw/e0642a49d8fe434a4d58d1840cc4c4e31d1e18ec/githullocalhostapp.svg" />
+<br/>
 
-Você pode acessar o seu aplicativo com a web apertando a tecla w.
+<p>Você pode acessar o seu aplicativo com a web apertando a tecla w.</p>
 
 ## Criando a build do app e instalando
 
@@ -162,13 +162,13 @@ Você pode acessar o seu aplicativo com a web apertando a tecla w.
 2. Abra o Projeto "Projeto_App_agendamento" no VSCode
 3. No arquivo app.json esta configurado para instalar a build com este codico aqui,e obrigatorio ter este codico se não não ira funcionar.
   <br /> <br /> 
-<img align="left" height="300em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/c969663e29cb679d13a4ece4349687fb/raw/14629e9858fbe87f26e7b47af6725da81a760d03/githubappjsona.svg" />
-  <br /> <br /> 
+<img  height="300em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/c969663e29cb679d13a4ece4349687fb/raw/14629e9858fbe87f26e7b47af6725da81a760d03/githubappjsona.svg" />
+  <br /> 
 "android":{
       "package":"com.app.swapp",
       "versionCode":1
     },
-    <br /> <br /> 
+    <br /> 
     
 4. Para Exportar o aplicativo temos que ir no terminal cmd prompt e colocar estes comandos aqui
 atenção este comando ios muda para ipk de vez de ser apk.
