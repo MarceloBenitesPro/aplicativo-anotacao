@@ -37,7 +37,7 @@ Antes de começar , você vai precisar ter instalado em sua máquina as sequinte
 
 Antes de começar , você vai precisar fazer o download e instalar o <a href="https://code.visualstudio.com/">VSCODE</a> Versao 2022 a mais conhecida no mercado na area de programação aonde eu instalei as minhas dependencias.
 
-<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
+<img  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/30549fccc9719e9e718759bfd3022f3e/raw/81cab19a174c9461d3f167cec561d29bf45788e7/githubcodeinfo.svg" />
 
       
 ### Instalando o NodeJs
@@ -150,7 +150,7 @@ Starting project at C:\Users\user\Desktop\Projeto_App_Agendamento
 Developer tools running on http://localhost:19002
 ````
 
-<img  height="500em" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ab984e5e25882c234a2119bbe0b7e643/raw/e0642a49d8fe434a4d58d1840cc4c4e31d1e18ec/githullocalhostapp.svg" />
+<img  src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/ab984e5e25882c234a2119bbe0b7e643/raw/e0642a49d8fe434a4d58d1840cc4c4e31d1e18ec/githullocalhostapp.svg" />
 <br/>
 
 <p>Você pode acessar o seu aplicativo com a web apertando a tecla w.</p>
